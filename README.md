@@ -1,2 +1,3 @@
-<h1>ALL IMAGES ARE PROPERTY OF ROKINGDOM AND ROROGOGO AND CAN NOT BE USED FOR HARMFULL PURPOSES!</h1>
+<h1>All images property of RoKingdom, RoKingdom Studios, RoRoGoGo, and or Cobalt Core and can not be used for harmfull purposes!</h1>
 To contact us, email marketing@rokingdom.com
+
