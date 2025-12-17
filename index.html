@@ -1,17 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <title>My GitHub Page</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+  
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/dark.css">
+  
+  <style>
+    /* This CSS hides the sidebar/header name if it appears */
+    .app-name, .github-corner {
+      display: none !important;
+    }
+    /* This makes the content fill the screen better since there's no sidebar */
+    .content {
+      padding-top: 20px !important;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      // This tells Docsify to use your README.md
-      homepage: 'README.md',
+      homepage: 'README.md', // Loads your README
+      hideSidebar: true,      // Removes the side menu
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
