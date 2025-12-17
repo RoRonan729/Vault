@@ -6,5 +6,6 @@ These photos are for marketing and usage only of aproval from marketing@rorogogo
 
 
 <sub>Owned and managed by Ronan Gupta</sub>
-<sub>[TikTok](https://tiktok.com/roronan729)</sub>
+<sub>[TikTok](https://tiktok.com/@roronan729)</sub>
+
 <sub>[YouTube](https://youtube.com/@ronangupta)</sub>
