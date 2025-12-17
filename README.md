@@ -11,9 +11,9 @@ Bedrock port: 10594
 > Bedrock is more unstable and unreliable the Java! We try our hardest to make you experiece as well as it can be but we do have many issues with Bedrock.
 
 <h2>How to use images</h2>
-These photos are for marketing and usage only of aproval from marketing@rorogogo.com Any unaproved inclusions of are logo will be asked to be removed. You must make our logo look good which means not using our images in a rude way. It also means that the logo must not be cropped.
+These photos are for marketing, display, and usage only following out guidlines. Bad usages of our logo will be asked to be removed. You must make our logo look good which means not using our images in a rude way. It also means that the logo must not be cropped. Please use basic knoledge
 
-<h4>Links</h4>
+<h3>Links</h3>
   
 >[RoKingdom](https://www.rokingdom.com) 
   
@@ -22,10 +22,10 @@ These photos are for marketing and usage only of aproval from marketing@rorogogo
 >[Cobalt Core](https://www.cobaltcore.org)
 
 
-<h4>Owned and managed by Ronan Gupta</h4>
+<h5>Owned and managed by Ronan Gupta</h5>
 
 >[TikTok](https://tiktok.com/@roronan729) 
   
 >[YouTube](https://youtube.com/@ronangupta)
 
->Quesions? Email: github@rokingdom.com
+Quesions? Email: github@rokingdom.com
