@@ -1,4 +1,4 @@
-![RoKingdom Logo](https://github.com/RoRonan729/Vault/blob/main/Main%20Logo.png?raw=true)
+![RoKingdom Logo](https://github.com/RoRonan729/RoKingdom/blob/main/RoKingdom%20Photos/Main%20Logo.png?raw=true)
 
 > [!WARNING]
 > All images property of RoKingdom Studios and can not be used for harmfull purposes!
