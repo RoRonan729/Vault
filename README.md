@@ -28,4 +28,4 @@ These photos are for marketing, display, and usage only following out guidlines.
   
 >[YouTube](https://youtube.com/@ronangupta)
 
-Quesions? Email: help@rokingdom.com or create an issue.
+Quesions? Email: help@rokingdom.com or create an issue on our [GitHub](https://github.com/RoRonan729/RoKingdom/issues)
