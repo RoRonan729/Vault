@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct
 
-[RoKingdom Rules]: https://rules.rorogogo.com
+[RoKingdom Rules](https://rules.rorogogo.com)
 
 ## Our Pledge
 
