@@ -12,7 +12,7 @@ Bedrock port: 10594
 > ALSO Consoles are not supported! This includes Playstation, Xbox, and Switch
 
 
-# RoKingdom - A Minecraft Modification
+# RoKingdom - Minecraft Servers & Modifications
 
 This project includes code licensed under the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause).  See below for the full license text. You are free to use, modify, and distribute this code within your own Minecraft modifications.
 
