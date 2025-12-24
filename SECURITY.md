@@ -2,8 +2,7 @@
 Currently, none of our code touches admin pannels, commands, or anything serverside. We try our hardest to make safe mods without vulnerabilities. For users, we keep high security of our servers. All of our code can not harm your device with certainty.
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+We are currently **paused** with development of resource packs as we have not found a need for another one yet. The versions below are the ones we will help you with.
 
 | Version | Supported          |
 | ------- | ------------------ |
