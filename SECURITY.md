@@ -7,6 +7,7 @@ We are currently **paused** with development of resource packs as we have not fo
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.2.9   | :white_check_mark: |
+| 1.2.8 and below   | :x: |
 
 
 ## Reporting a Vulnerability
