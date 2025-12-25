@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "RoKingdom VB9 is fixing a lot of records. Hopefully",
+        "name": "RoKingdom VB9",
+        "uuid": "55498e9d-145e-4400-8830-035ae1a25d23",
+        "version": [0, 2, 9],
+        "min_engine_version": [ 1, 20, 0 ]
+    },
+    "modules": [
+        {
+            "description": "RoKingdom VB9 is fixing a lot of records. Hopefully",
+            "type": "resources",
+            "uuid": "ffba317c-acee-4a2e-a9f1-19e957d26f23",
+            "version": [0, 2, 9]
+        }
+    ]
+}
